@@ -7,7 +7,7 @@ function App() {
     <div className="max-w-[1044px] mx-auto flex flex-col items-center m-8">
       <img src={logoImg} alt="logo da NLW eSports" className="max-w-[285px]" />
       
-      <h1 className="text-4xl text-white font-back mt-8">
+      <h1 className="text-4xl text-white font-back mt-8 ">
         Seu <span className="text-transparent bg-nlw-gradient bg-clip-text">duo</span> está aqui.
       </h1>
       <div className="grid grid-cols-6 gap-6 mt-10" >
